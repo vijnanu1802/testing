@@ -1,5 +1,5 @@
-Pipeline {
-    agent any
+pipeline {
+    node any
          
        
     Stages {
